@@ -4,7 +4,7 @@ module.exports = {
     'Akhila Muthyala, a full stack developer graduated from ASU looking for full time opportunities',
   siteKeywords:
     'akhila, muthyala, javascript, fullstack, developer, react, arizonastate, asu',
-  siteUrl: 'http://localhost:8000/',
+  siteUrl: 'https://akhilamuthyala.herokuapp.com/',
   siteLanguage: 'en_US',
 
   googleVerification: '',
